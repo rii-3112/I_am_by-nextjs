@@ -28,6 +28,8 @@ export default function ActionContent() {
             </p>
             <p className="md:text-[40px] text-[20px]">・Diver CTF</p>
             <p className="md:text-[40px] text-[20px]">・技育博 Vol.3</p>
+            <p className="md:text-[40px] text-[20px]">・STORES conference</p>
+            <p className="md:text-[40px] text-[20px]">・TS Kaigi 北陸 2025</p>
           </div>
         </div>
       </div>

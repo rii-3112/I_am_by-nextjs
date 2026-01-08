@@ -21,7 +21,7 @@ export default function UniversityContent() {
               ・フードクリエーションプロジェクトWeb班
             </p>
             <p className="md:text-[40px] text-[20px]">
-              ・CirKit　2025年度学生副リーダー
+              ・CirKit　2026年度学生リーダー
             </p>
           </div>
         </div>
