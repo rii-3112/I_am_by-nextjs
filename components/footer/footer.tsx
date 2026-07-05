@@ -16,7 +16,7 @@ export default function Footer() {
           </a>
         </li>
         <li>
-          <a href="https://github.com/MATSUOKAAIRI">
+          <a href="https://github.com/rii-3112">
             <Image
               className="w-8"
               src="/github-mark-white.png"
