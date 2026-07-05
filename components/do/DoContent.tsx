@@ -16,7 +16,7 @@ export default function DoContent() {
         <div className="mb-6 underline decoration-cyan-400 underline-offset-8">
           <h4 className="md:text-[40px] text-[20px] mb-2">言語:</h4>
           <p className="md:text-[40px] text-[20px]">
-            Python、React、HTML、CSS、JavaScript
+            Python、TypeScript、HTML、CSS、JavaScript
           </p>
         </div>
       </div>

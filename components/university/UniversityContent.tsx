@@ -6,7 +6,7 @@ export default function UniversityContent() {
         <div className="md:flex mb-4 ml-8 underline decoration-cyan-400 underline-offset-8">
           <h2 className="md:text-[40px] text-[20px]">大学:　</h2>
           <h3 className="md:text-[40px] text-center text-[20px]">
-            KIT 工学部情報工学科2年
+            KIT 工学部情報工学科3年
           </h3>
         </div>
         <div className="mb-4 ml-8 underline decoration-cyan-400 underline-offset-8">

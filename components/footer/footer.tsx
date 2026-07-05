@@ -27,7 +27,7 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-      <p className="m-4 text-white flex">rii_3112 @ 2025</p>
+      <p className="m-4 text-white flex">rii_3112 @ 2026</p>
     </footer>
   );
 }

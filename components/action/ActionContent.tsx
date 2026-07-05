@@ -32,6 +32,15 @@ export default function ActionContent() {
             <p className="md:text-[40px] text-[20px]">・TS Kaigi 北陸 2025</p>
           </div>
         </div>
+        <div className="mb-4 underline decoration-cyan-400 underline-offset-8">
+          <h3 className="md:text-[40px] text-[20px]">2026年度:　</h3>
+          <div className="flex flex-col w-full ml-8">
+            <p className="md:text-[40px] text-[20px]">・TSKaigi hokuriku 2026</p>
+            <p className="md:text-[40px] text-[20px]">
+              ・TS Kaigi
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );
