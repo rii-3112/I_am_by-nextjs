@@ -1,8 +1,9 @@
+import type { RefObject } from 'react';
 import ProjectBox from './ProjectBox';
 import projects from './projects';
 
 interface WorkContentProps {
-  boxRefs: React.MutableRefObject<(HTMLDivElement | null)[]>;
+  boxRefs: RefObject<(HTMLDivElement | null)[]>;
 }
 
 export default function WorkContent({ boxRefs }: WorkContentProps) {
