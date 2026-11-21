@@ -17,13 +17,13 @@ npm run dev
 
 ## スクリプト
 
-| コマンド | 内容 |
-| --- | --- |
-| `npm run dev` | 開発サーバー |
-| `npm run build` | 静的ファイルを `out/` に出力 |
-| `npm run start` | ビルド結果を配信 |
-| `npm run check` | Biome でリントとフォーマットを確認 |
-| `npm run check:fix` | Biome の指摘を自動修正 |
+| コマンド            | 内容                               |
+| ------------------- | ---------------------------------- |
+| `npm run dev`       | 開発サーバー                       |
+| `npm run build`     | 静的ファイルを `out/` に出力       |
+| `npm run start`     | ビルド結果を配信                   |
+| `npm run check`     | Biome でリントとフォーマットを確認 |
+| `npm run check:fix` | Biome の指摘を自動修正             |
 
 ## スタック
 
