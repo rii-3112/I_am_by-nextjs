@@ -30,6 +30,6 @@ npm run dev
 - Next.js 16
 - React 19
 - Tailwind CSS 4
-- GSAP
+- three.js
 - TypeScript 5.9
 - Biome
